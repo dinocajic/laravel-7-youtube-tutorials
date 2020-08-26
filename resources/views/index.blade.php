@@ -72,7 +72,8 @@
                 </div>
 
                 <div class="links">
-                    <a href="/">Home</a>
+                    <a href="/">Home</a><br>
+                    <a href="about">About</a>
                 </div>
             </div>
         </div>
