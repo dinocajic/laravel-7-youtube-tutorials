@@ -73,7 +73,9 @@
 
                 <div class="links">
                     <a href="/">Home</a><br>
-                    <a href="about">About</a>
+                    <a href="about">Simple Route (About)</a><br>
+                    <a href="about-page">Route::get() returning view (About Page)</a><br>
+                    <a href="company">Route::view() returning view (Company)</a>
                 </div>
             </div>
         </div>

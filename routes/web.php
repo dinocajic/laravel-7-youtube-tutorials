@@ -20,3 +20,9 @@ Route::get('/', function () {
 Route::get('about', function() {
     return '<h1>About Page</h1>';
 });
+
+Route::get('about-us', function() {
+    return view('about');
+});
+
+Route::view('company-page', 'company');
